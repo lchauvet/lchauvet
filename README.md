@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @lchauvet
-- 🌱 I’m currently learning github.
-- 💞️ I’m looking to collaborate on project.
+I’m currently learning github.
 
 <!---
 lchauvet/lchauvet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
